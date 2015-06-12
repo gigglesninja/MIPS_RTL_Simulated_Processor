@@ -1,0 +1,2 @@
+verilog work "netgen/par/Mips16_timesim.v"
+verilog work "tb_Mips16.v"

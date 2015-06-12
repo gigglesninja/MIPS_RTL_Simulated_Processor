@@ -1,0 +1,6 @@
+/home/preston/Documents/MIPSProcessor/Mips16/Mips16.ngc 1430004529
+ipcore_dir/instruction_memory.ngc 1429994267
+ipcore_dir/data_memory.ngc 1429994267
+ipcore_dir/adder.ngc 1429752603
+ipcore_dir/word_adder.ngc 1429994262
+OK

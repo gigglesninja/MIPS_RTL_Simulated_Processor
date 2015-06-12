@@ -1,0 +1,15 @@
+# Output products list for <word_adder>
+_xmsgs/pn_parser.xmsgs
+word_adder/doc/c_addsub_v11_0_readme.txt
+word_adder/doc/c_addsub_v11_0_vinfo.html
+word_adder/doc/ds214_addsub.pdf
+word_adder.asy
+word_adder.gise
+word_adder.ngc
+word_adder.sym
+word_adder.v
+word_adder.veo
+word_adder.xco
+word_adder.xise
+word_adder_flist.txt
+word_adder_xmdf.tcl

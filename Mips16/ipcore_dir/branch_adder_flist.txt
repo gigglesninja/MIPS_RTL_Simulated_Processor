@@ -1,0 +1,15 @@
+# Output products list for <branch_adder>
+_xmsgs/pn_parser.xmsgs
+branch_adder/doc/c_addsub_v11_0_readme.txt
+branch_adder/doc/c_addsub_v11_0_vinfo.html
+branch_adder/doc/ds214_addsub.pdf
+branch_adder.asy
+branch_adder.gise
+branch_adder.ngc
+branch_adder.sym
+branch_adder.v
+branch_adder.veo
+branch_adder.xco
+branch_adder.xise
+branch_adder_flist.txt
+branch_adder_xmdf.tcl

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/James/Documents/GitHub/MIPSProcessor/Mips16/tb_Mips16_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_Mips16" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/tb_Mips16/dout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dout[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/alu_result" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_result[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/alu/data_1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_1[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/alu/data_2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">data_2[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/alu/funct" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">funct[3:0]</obj_property>
+      <obj_property name="ObjectShortName">funct[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/din" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">din[15:0]</obj_property>
+      <obj_property name="ObjectShortName">din[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/pc_src" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_src</obj_property>
+      <obj_property name="ObjectShortName">pc_src</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/wen" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wen</obj_property>
+      <obj_property name="ObjectShortName">wen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/pc_reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pc_reset</obj_property>
+      <obj_property name="ObjectShortName">pc_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/rd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rd</obj_property>
+      <obj_property name="ObjectShortName">rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/zero" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">zero[15:0]</obj_property>
+      <obj_property name="ObjectShortName">zero[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_f/inst" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inst[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inst[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/a" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/b" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">b[15:0]</obj_property>
+      <obj_property name="ObjectShortName">b[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/c" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c[15:0]</obj_property>
+      <obj_property name="ObjectShortName">c[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/d" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">d[15:0]</obj_property>
+      <obj_property name="ObjectShortName">d[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/e" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">e[15:0]</obj_property>
+      <obj_property name="ObjectShortName">e[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/f" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">f[15:0]</obj_property>
+      <obj_property name="ObjectShortName">f[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/i_d/g" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">g[15:0]</obj_property>
+      <obj_property name="ObjectShortName">g[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/alusrc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">alusrc</obj_property>
+      <obj_property name="ObjectShortName">alusrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/aluresult_ex_mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluresult_ex_mem[15:0]</obj_property>
+      <obj_property name="ObjectShortName">aluresult_ex_mem[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/aluresult_mem_wb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">aluresult_mem_wb[15:0]</obj_property>
+      <obj_property name="ObjectShortName">aluresult_mem_wb[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/write_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">write_reg[2:0]</obj_property>
+      <obj_property name="ObjectShortName">write_reg[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/write_reg_ex_mem" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">write_reg_ex_mem[2:0]</obj_property>
+      <obj_property name="ObjectShortName">write_reg_ex_mem[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_Mips16/uut/write_reg_mem_wb" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">write_reg_mem_wb[2:0]</obj_property>
+      <obj_property name="ObjectShortName">write_reg_mem_wb[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
